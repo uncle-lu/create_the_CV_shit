@@ -1,0 +1,3 @@
+./test/0001.jpg ./test/0001.jpg ./test/0001.jpg
+./test/0002.jpg ./test/0002.jpg ./test/0002.jpg
+./test/0003.jpg ./test/0003.jpg ./test/0003.jpg
